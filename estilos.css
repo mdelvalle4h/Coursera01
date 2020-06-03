@@ -1,0 +1,22 @@
+
+.boton {
+border: 0;
+height: 80%;
+margin-top: 3%;
+padding: 0 3%;
+background-color: #47d147;
+}
+
+.cadena {
+width:inherit;
+border-color: #47d147;
+margin: 1% 0 1%;
+}
+
+.controles {
+background-color: #ccffcc;
+}
+
+.mensaje {
+font-size: 25px;
+}
